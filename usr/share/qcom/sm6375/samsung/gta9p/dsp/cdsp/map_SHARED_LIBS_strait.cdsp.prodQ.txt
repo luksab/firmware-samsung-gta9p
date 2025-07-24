@@ -1,0 +1,12 @@
+../../build/ms/dynamic_modules/strait.cdsp.prod/libsysmon_skel.so
+../../build/ms/dynamic_modules/strait.cdsp.prod/libsysmondomain_skel.so
+../../build/ms/dynamic_modules/strait.cdsp.prod/libstabilitydomain_skel.so
+../../build/ms/dynamic_modules/strait.cdsp.prod/libsysmonquery_skel.so
+../../build/ms/dynamic_modules/strait.cdsp.prod/libbenchmark_skel.so
+../../build/ms/dynamic_modules/strait.cdsp.prod/libsysmonhvxthrottle_skel.so
+../../build/ms/dynamic_modules/strait.cdsp.prod/example_image.so
+../../build/ms/dynamic_modules/strait.cdsp.prod/libloadalgo_skel.so
+../../build/ms/dynamic_modules/strait.cdsp.prod/fastrpc_shell_3
+../../build/ms/dynamic_modules/strait.cdsp.prod/fastrpc_shell_unsigned_3
+../../build/ms/dynamic_modules/strait.cdsp.prod/libc++.so.1
+../../build/ms/dynamic_modules/strait.cdsp.prod/libc++abi.so.1

@@ -1,0 +1,4 @@
+../../build/ms/dynamic_modules/strait.adsp.prod/libsns_direct_channel_skel.so
+../../build/ms/dynamic_modules/strait.adsp.prod/lsm6dst_island.so
+../../build/ms/dynamic_modules/strait.adsp.prod/lsm6dst_normal.so
+../../build/ms/dynamic_modules/strait.adsp.prod/lsm6dst.so
